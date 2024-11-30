@@ -1,0 +1,4752 @@
+{
+  "base_url": "https://cdn.ipregistry.co/flags",
+  "formats": {
+    "noto": [
+      "png",
+      "svg"
+    ],
+    "emojitwo": [
+      "png",
+      "svg"
+    ],
+    "twemoji": [
+      "png",
+      "svg"
+    ],
+    "wikimedia": [
+      "png",
+      "svg"
+    ]
+  },
+  "countries": [
+    "ad",
+    "ae",
+    "af",
+    "ag",
+    "ai",
+    "al",
+    "am",
+    "ao",
+    "aq",
+    "ar",
+    "as",
+    "at",
+    "au",
+    "aw",
+    "ax",
+    "az",
+    "ba",
+    "bb",
+    "bd",
+    "be",
+    "bf",
+    "bg",
+    "bh",
+    "bi",
+    "bj",
+    "bl",
+    "bm",
+    "bn",
+    "bo",
+    "bq",
+    "br",
+    "bs",
+    "bt",
+    "bv",
+    "bw",
+    "by",
+    "bz",
+    "ca",
+    "cc",
+    "cd",
+    "cf",
+    "cg",
+    "ch",
+    "ci",
+    "ck",
+    "cl",
+    "cm",
+    "cn",
+    "co",
+    "cr",
+    "cu",
+    "cv",
+    "cw",
+    "cx",
+    "cy",
+    "cz",
+    "de",
+    "dj",
+    "dk",
+    "dm",
+    "do",
+    "dz",
+    "ec",
+    "ee",
+    "eg",
+    "eh",
+    "er",
+    "es",
+    "et",
+    "fi",
+    "fj",
+    "fk",
+    "fm",
+    "fo",
+    "fr",
+    "ga",
+    "gb",
+    "gd",
+    "ge",
+    "gf",
+    "gg",
+    "gh",
+    "gi",
+    "gl",
+    "gm",
+    "gn",
+    "gp",
+    "gq",
+    "gr",
+    "gs",
+    "gt",
+    "gu",
+    "gw",
+    "gy",
+    "hk",
+    "hm",
+    "hn",
+    "hr",
+    "ht",
+    "hu",
+    "id",
+    "ie",
+    "il",
+    "im",
+    "in",
+    "io",
+    "iq",
+    "ir",
+    "is",
+    "it",
+    "je",
+    "jm",
+    "jo",
+    "jp",
+    "ke",
+    "kg",
+    "kh",
+    "ki",
+    "km",
+    "kn",
+    "kp",
+    "kr",
+    "kw",
+    "ky",
+    "kz",
+    "la",
+    "lb",
+    "lc",
+    "li",
+    "lk",
+    "lr",
+    "ls",
+    "lt",
+    "lu",
+    "lv",
+    "ly",
+    "ma",
+    "mc",
+    "md",
+    "me",
+    "mf",
+    "mg",
+    "mh",
+    "mk",
+    "ml",
+    "mm",
+    "mn",
+    "mo",
+    "mp",
+    "mq",
+    "mr",
+    "ms",
+    "mt",
+    "mu",
+    "mv",
+    "mw",
+    "mx",
+    "my",
+    "mz",
+    "na",
+    "nc",
+    "ne",
+    "nf",
+    "ng",
+    "ni",
+    "nl",
+    "no",
+    "np",
+    "nr",
+    "nu",
+    "nz",
+    "om",
+    "pa",
+    "pe",
+    "pf",
+    "pg",
+    "ph",
+    "pk",
+    "pl",
+    "pm",
+    "pn",
+    "pr",
+    "ps",
+    "pt",
+    "pw",
+    "py",
+    "qa",
+    "re",
+    "ro",
+    "rs",
+    "ru",
+    "rw",
+    "sa",
+    "sb",
+    "sc",
+    "sd",
+    "se",
+    "sg",
+    "sh",
+    "si",
+    "sj",
+    "sk",
+    "sl",
+    "sm",
+    "sn",
+    "so",
+    "sr",
+    "ss",
+    "st",
+    "sv",
+    "sx",
+    "sy",
+    "sz",
+    "tc",
+    "td",
+    "tf",
+    "tg",
+    "th",
+    "tj",
+    "tk",
+    "tl",
+    "tm",
+    "tn",
+    "to",
+    "tr",
+    "tt",
+    "tv",
+    "tw",
+    "tz",
+    "ua",
+    "ug",
+    "um",
+    "us",
+    "uy",
+    "uz",
+    "va",
+    "vc",
+    "ve",
+    "vg",
+    "vi",
+    "vn",
+    "vu",
+    "wf",
+    "ws",
+    "ye",
+    "yt",
+    "za",
+    "zm",
+    "zw"
+  ],
+  "timestamp": "2024-11-30 14:20:10",
+  "country_formats": {
+    "ad": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ae": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "af": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ag": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ai": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "al": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "am": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ao": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "aq": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ar": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "as": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "at": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "au": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "aw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ax": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "az": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ba": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bb": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bd": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "be": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bi": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bj": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bo": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bq": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "br": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bs": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bv": {
+      "noto": [
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "by": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "bz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ca": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cd": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ch": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ci": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ck": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "co": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cv": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cx": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cy": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "cz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "de": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "dj": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "dk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "dm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "do": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "dz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ec": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ee": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "eg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "eh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "er": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "es": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "et": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fi": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fj": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fo": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "fr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ga": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gb": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gd": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ge": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gi": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gp": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gq": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gs": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "gy": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "hk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "hm": {
+      "noto": [
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "hn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "hr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ht": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "hu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "id": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ie": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "il": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "im": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "in": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "io": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "iq": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ir": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "is": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "it": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "je": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "jm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "jo": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "jp": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ke": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ki": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "km": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kp": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ky": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "kz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "la": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lb": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "li": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ls": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "lv": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ly": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ma": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "md": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "me": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mf": {
+      "noto": [
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ml": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mo": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mp": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mq": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ms": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mv": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mx": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "my": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "mz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "na": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ne": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ng": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ni": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "no": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "np": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "nz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "om": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pa": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pe": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ph": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ps": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "pw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "py": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "qa": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "re": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ro": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "rs": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ru": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "rw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sa": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sb": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sd": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "se": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sh": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "si": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sj": {
+      "noto": [
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "so": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ss": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "st": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sv": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sx": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sy": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "sz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "td": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "th": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tj": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tk": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tl": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "to": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tr": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tv": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "tz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ua": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ug": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "um": {
+      "noto": [
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "us": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "uy": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "uz": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "va": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "vc": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ve": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "vg": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "vi": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "vn": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "vu": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "wf": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ws": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "ye": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "yt": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "za": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "zm": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    },
+    "zw": {
+      "noto": [
+        "png",
+        "svg"
+      ],
+      "emojitwo": [
+        "png",
+        "svg"
+      ],
+      "twemoji": [
+        "png",
+        "svg"
+      ],
+      "wikimedia": [
+        "png",
+        "svg"
+      ]
+    }
+  }
+}
